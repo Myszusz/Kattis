@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\Pot\Pot\bin\Debug\Pot.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\Pot\Pot\bin\Debug\Pot.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Pot\Pot\bin\Debug\Pot.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\Pot\Pot\obj\Debug\Pot.csprojResolveAssemblyReference.cache
+c:\users\misiobor\documents\visual studio 2015\Projects\Pot\Pot\obj\Debug\Pot.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Pot\Pot\obj\Debug\Pot.pdb

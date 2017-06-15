@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\Reverserot\Reverserot\bin\Debug\Reverserot.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\Reverserot\Reverserot\bin\Debug\Reverserot.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Reverserot\Reverserot\bin\Debug\Reverserot.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\Reverserot\Reverserot\obj\Debug\Reverserot.csprojResolveAssemblyReference.cache
+c:\users\misiobor\documents\visual studio 2015\Projects\Reverserot\Reverserot\obj\Debug\Reverserot.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Reverserot\Reverserot\obj\Debug\Reverserot.pdb

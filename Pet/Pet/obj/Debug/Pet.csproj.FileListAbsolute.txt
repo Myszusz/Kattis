@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\Pet\Pet\bin\Debug\Pet.exe.config
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Pet\Pet\bin\Debug\Pet.exe
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Pet\Pet\bin\Debug\Pet.pdb
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Pet\Pet\obj\Debug\Pet.csprojResolveAssemblyReference.cache
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Pet\Pet\obj\Debug\Pet.exe
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Pet\Pet\obj\Debug\Pet.pdb
