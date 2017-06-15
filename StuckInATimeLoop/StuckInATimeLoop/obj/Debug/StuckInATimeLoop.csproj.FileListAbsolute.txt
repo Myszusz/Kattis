@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\StuckInATimeLoop\StuckInATimeLoop\bin\Debug\StuckInATimeLoop.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\StuckInATimeLoop\StuckInATimeLoop\bin\Debug\StuckInATimeLoop.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\StuckInATimeLoop\StuckInATimeLoop\bin\Debug\StuckInATimeLoop.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\StuckInATimeLoop.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\StuckInATimeLoop.pdb
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\StuckInATimeLoop.csprojResolveAssemblyReference.cache

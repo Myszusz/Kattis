@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\Spavanac\Spavanac\bin\Debug\Spavanac.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\Spavanac\Spavanac\bin\Debug\Spavanac.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Spavanac\Spavanac\bin\Debug\Spavanac.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\Spavanac\Spavanac\obj\Debug\Spavanac.csprojResolveAssemblyReference.cache
+c:\users\misiobor\documents\visual studio 2015\Projects\Spavanac\Spavanac\obj\Debug\Spavanac.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Spavanac\Spavanac\obj\Debug\Spavanac.pdb

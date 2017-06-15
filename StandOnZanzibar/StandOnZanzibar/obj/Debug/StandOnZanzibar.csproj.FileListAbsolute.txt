@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\StandOnZanzibar\StandOnZanzibar\bin\Debug\StandOnZanzibar.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\StandOnZanzibar\StandOnZanzibar\bin\Debug\StandOnZanzibar.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\StandOnZanzibar\StandOnZanzibar\bin\Debug\StandOnZanzibar.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\StandOnZanzibar\StandOnZanzibar\obj\Debug\StandOnZanzibar.csprojResolveAssemblyReference.cache
+c:\users\misiobor\documents\visual studio 2015\Projects\StandOnZanzibar\StandOnZanzibar\obj\Debug\StandOnZanzibar.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\StandOnZanzibar\StandOnZanzibar\obj\Debug\StandOnZanzibar.pdb
