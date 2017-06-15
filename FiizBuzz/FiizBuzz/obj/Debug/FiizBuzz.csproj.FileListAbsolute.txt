@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\FiizBuzz\FiizBuzz\bin\Debug\FiizBuzz.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\FiizBuzz\FiizBuzz\bin\Debug\FiizBuzz.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\FiizBuzz\FiizBuzz\bin\Debug\FiizBuzz.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\FiizBuzz\FiizBuzz\obj\Debug\FiizBuzz.csprojResolveAssemblyReference.cache
+c:\users\misiobor\documents\visual studio 2015\Projects\FiizBuzz\FiizBuzz\obj\Debug\FiizBuzz.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\FiizBuzz\FiizBuzz\obj\Debug\FiizBuzz.pdb
