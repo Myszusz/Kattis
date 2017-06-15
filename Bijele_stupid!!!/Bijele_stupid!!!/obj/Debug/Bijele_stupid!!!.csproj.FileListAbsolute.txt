@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\Bijele_stupid!!!\Bijele_stupid!!!\bin\Debug\Bijele_stupid!!!.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\Bijele_stupid!!!\Bijele_stupid!!!\bin\Debug\Bijele_stupid!!!.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Bijele_stupid!!!\Bijele_stupid!!!\bin\Debug\Bijele_stupid!!!.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\Bijele_stupid!!!\Bijele_stupid!!!\obj\Debug\Bijele_stupid!!!.csprojResolveAssemblyReference.cache
+c:\users\misiobor\documents\visual studio 2015\Projects\Bijele_stupid!!!\Bijele_stupid!!!\obj\Debug\Bijele_stupid!!!.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Bijele_stupid!!!\Bijele_stupid!!!\obj\Debug\Bijele_stupid!!!.pdb
