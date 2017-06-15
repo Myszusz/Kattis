@@ -1,0 +1,7 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\Teletubies\Teletubies\bin\Debug\Teletubies.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\Teletubies\Teletubies\bin\Debug\Teletubies.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Teletubies\Teletubies\bin\Debug\Teletubies.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\Teletubies\Teletubies\obj\Debug\Teletubies.csprojResolveAssemblyReference.cache
+c:\users\misiobor\documents\visual studio 2015\Projects\Teletubies\Teletubies\obj\Debug\Teletubies.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Teletubies\Teletubies\obj\Debug\Teletubies.pdb
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Teletubies\Teletubies\bin\Debug\teleName.txt

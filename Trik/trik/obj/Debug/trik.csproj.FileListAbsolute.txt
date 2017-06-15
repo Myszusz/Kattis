@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\trik\trik\bin\Debug\trik.exe.config
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Trik\trik\obj\Debug\trik.csprojResolveAssemblyReference.cache
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Trik\trik\bin\Debug\trik.exe
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Trik\trik\bin\Debug\trik.pdb
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Trik\trik\obj\Debug\trik.exe
+C:\Users\Misiobor\Documents\Visual Studio 2015\Projects\Trik\trik\obj\Debug\trik.pdb
