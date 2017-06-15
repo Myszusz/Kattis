@@ -1,0 +1,5 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\Oddities\Oddities\bin\Debug\Oddities.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\Oddities\Oddities\bin\Debug\Oddities.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Oddities\Oddities\bin\Debug\Oddities.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\Oddities\Oddities\obj\Debug\Oddities.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Oddities\Oddities\obj\Debug\Oddities.pdb

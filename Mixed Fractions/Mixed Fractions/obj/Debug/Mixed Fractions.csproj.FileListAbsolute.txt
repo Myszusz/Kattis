@@ -1,0 +1,6 @@
+c:\users\misiobor\documents\visual studio 2015\Projects\Mixed Fractions\Mixed Fractions\bin\Debug\Mixed Fractions.exe.config
+c:\users\misiobor\documents\visual studio 2015\Projects\Mixed Fractions\Mixed Fractions\bin\Debug\Mixed Fractions.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Mixed Fractions\Mixed Fractions\bin\Debug\Mixed Fractions.pdb
+c:\users\misiobor\documents\visual studio 2015\Projects\Mixed Fractions\Mixed Fractions\obj\Debug\Mixed Fractions.csprojResolveAssemblyReference.cache
+c:\users\misiobor\documents\visual studio 2015\Projects\Mixed Fractions\Mixed Fractions\obj\Debug\Mixed Fractions.exe
+c:\users\misiobor\documents\visual studio 2015\Projects\Mixed Fractions\Mixed Fractions\obj\Debug\Mixed Fractions.pdb
